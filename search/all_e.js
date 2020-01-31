@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['sampleframes_86',['SampleFrames',['../class_capture_values.html#a115496911566873d6fd80818c8b79793',1,'CaptureValues.SampleFrames()'],['../class_settings.html#a918363b2014f37e381c10f159947ef9f',1,'Settings.SampleFrames()']]],
+  ['sampleframesfield_87',['sampleFramesField',['../class_capture_values.html#a4d84ac80ce88b7d587a4c0eb38f7f840',1,'CaptureValues']]],
+  ['secondsbeforecapture_88',['SecondsBeforeCapture',['../class_capture_values.html#a080112efbef847c859afbf002dc8d017',1,'CaptureValues']]],
+  ['setid_89',['setId',['../class_capture_values.html#ace524792405028a50095e7de4b43c240',1,'CaptureValues']]],
+  ['setnumsamples_90',['setNumSamples',['../class_capture_values.html#aba8e4b4af589952184b3bb21edfe8827',1,'CaptureValues']]],
+  ['setsampleframes_91',['setSampleFrames',['../class_capture_values.html#af8da484f8083e9b3585d8efe9151aee0',1,'CaptureValues']]],
+  ['settings_92',['Settings',['../class_settings.html',1,'Settings'],['../class_settings.html#af5fca704789cd3f6852bdc786c28bca5',1,'Settings.Settings()']]],
+  ['settings_2ecs_93',['Settings.cs',['../_settings_8cs.html',1,'']]],
+  ['slidercontroller_94',['SliderController',['../class_slider_controller.html',1,'']]],
+  ['slidercontroller_2ecs_95',['SliderController.cs',['../_slider_controller_8cs.html',1,'']]],
+  ['slidergrabbable_96',['SliderGrabbable',['../class_slider_grabbable.html',1,'']]],
+  ['slidergrabbable_2ecs_97',['SliderGrabbable.cs',['../_slider_grabbable_8cs.html',1,'']]],
+  ['songname_98',['songName',['../class_music_cube.html#a62d71297b302337a7899f536d270cce1',1,'MusicCube']]],
+  ['start_99',['Start',['../class_gesture_resolver.html#a53a9ddd76d0d76ed310298a05e2edd4d',1,'GestureResolver.Start()'],['../class_gesture_resolver_example.html#a88298c0e17e7ed962767215e4653e605',1,'GestureResolverExample.Start()']]],
+  ['swipeduration_100',['SwipeDuration',['../class_tablet_swipable.html#a7a68c8ad63759d2c13961751dfa86f1f',1,'TabletSwipable']]],
+  ['swipeleft_101',['SwipeLeft',['../class_i_swipable.html#a47107178b2d35992433d94bb9ab7251b',1,'ISwipable.SwipeLeft()'],['../class_tablet_swipable.html#a7ff04e6b8bb0224b155fa84e684e64bf',1,'TabletSwipable.SwipeLeft()']]],
+  ['swipeoffset_102',['SwipeOffset',['../class_tablet_swipable.html#a822fa3a0bc22271a8d54b9de7ae2e8e0',1,'TabletSwipable']]],
+  ['swiperange_103',['SwipeRange',['../class_gesture_resolver_example.html#a459a1931198002ae1ea50ee21af7169c',1,'GestureResolverExample']]],
+  ['swiperight_104',['SwipeRight',['../class_i_swipable.html#abe0727b413b5f759cfc2416218fef908',1,'ISwipable.SwipeRight()'],['../class_tablet_swipable.html#a4e22b2734f9230b4c36b2e3c8448c67b',1,'TabletSwipable.SwipeRight()']]]
+];

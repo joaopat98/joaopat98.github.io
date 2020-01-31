@@ -1,0 +1,27 @@
+var annotated_dup =
+[
+    [ "ActionNotRegisteredException", "class_action_not_registered_exception.html", "class_action_not_registered_exception" ],
+    [ "CaptureValues", "class_capture_values.html", "class_capture_values" ],
+    [ "CubeGrabbable", "class_cube_grabbable.html", "class_cube_grabbable" ],
+    [ "CubeTrigger", "class_cube_trigger.html", "class_cube_trigger" ],
+    [ "FrameInfo", "class_frame_info.html", "class_frame_info" ],
+    [ "FrameInfoIntermediate", "class_frame_info_intermediate.html", "class_frame_info_intermediate" ],
+    [ "GestureResolver", "class_gesture_resolver.html", "class_gesture_resolver" ],
+    [ "GestureResolverExample", "class_gesture_resolver_example.html", "class_gesture_resolver_example" ],
+    [ "HandleGrabbable", "class_handle_grabbable.html", "class_handle_grabbable" ],
+    [ "IAugmentable", "class_i_augmentable.html", "class_i_augmentable" ],
+    [ "IFloatCallBack", "interface_i_float_call_back.html", "interface_i_float_call_back" ],
+    [ "IGrabbable", "class_i_grabbable.html", "class_i_grabbable" ],
+    [ "IGrabbing", "interface_i_grabbing.html", "interface_i_grabbing" ],
+    [ "ISwipable", "class_i_swipable.html", "class_i_swipable" ],
+    [ "ISwipping", "interface_i_swipping.html", null ],
+    [ "MusicContainer", "class_music_container.html", "class_music_container" ],
+    [ "MusicCube", "class_music_cube.html", "class_music_cube" ],
+    [ "Settings", "class_settings.html", "class_settings" ],
+    [ "SliderController", "class_slider_controller.html", "class_slider_controller" ],
+    [ "SliderGrabbable", "class_slider_grabbable.html", "class_slider_grabbable" ],
+    [ "TabletSwipable", "class_tablet_swipable.html", "class_tablet_swipable" ],
+    [ "VolumeChanger", "class_volume_changer.html", "class_volume_changer" ],
+    [ "WorldManager", "class_world_manager.html", "class_world_manager" ],
+    [ "WorldUpdater", "class_world_updater.html", null ]
+];
